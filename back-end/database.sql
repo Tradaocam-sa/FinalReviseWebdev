@@ -1,0 +1,6 @@
+CREATE TABLE [final1] (
+  TP INT COMMENT '';
+  FN INT COMMENT '';
+  FP INT COMMENT '';
+  TN INT COMMENT '';
+) DEFAULT CHARSET utf8 comment'';
